@@ -16,3 +16,14 @@ Figure 2. Adapted from https://arxiv.org/pdf/1506.02640
 
 
 2) Recipe recommendation system:
+
+   STUFF TO RESEARCH
+
+
+# How to use this FridgeVision Project
+
+First, open your VScode app on your computer.
+
+Second, open terminal and do "git clone https://github.com/PlutoPuppy/FridgeVision.git"
+
+Then, open src folder and run "yolov5.py" [Notice: please add your own API KEY and also replace the first image parameter in "model.predict() with your own testing fridge image"]
