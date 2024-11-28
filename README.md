@@ -27,3 +27,6 @@ First, open your VScode app on your computer.
 Second, open terminal and do "git clone https://github.com/PlutoPuppy/FridgeVision.git"
 
 Then, open src folder and run "yolov5.py" [Notice: please add your own API KEY and also replace the first image parameter in "model.predict() with your own testing fridge image"]
+
+To test the model on new data, please download this .zip file:
+https://drive.google.com/file/d/1-Gpszhwd_JUzfRI0o8VVSRqOdjH4VB4X/view?usp=sharing
