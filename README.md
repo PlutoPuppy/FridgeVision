@@ -28,6 +28,9 @@ Second, open terminal and do "git clone https://github.com/PlutoPuppy/FridgeVisi
 
 Then, open src folder and run "APS360_FinalModel.ipynb" [Notice: please add your own API KEY for Roboflow if needed in this project"]
 
+
+# Training datasets used
+
 To train our model, the following datasets are used:
 
 For YOLO detection model, please use dataset from our team's self-created open sourced Roboflow dataset, downloadable via this code:
@@ -53,6 +56,45 @@ For Recipe Recommendation model, we used kaggle dataset from link:
 https://www.kaggle.com/datasets/pes12017000148/food-ingredients-and-recipe-dataset-with-images
 
 
+# How to test our model
+
 To test the model on new data, please download this .zip file:
 
 https://drive.google.com/file/d/1-Gpszhwd_JUzfRI0o8VVSRqOdjH4VB4X/view?usp=sharing
+
+
+
+
+# Sample Outputs for our Project:
+
+![testingFridge2-2](https://github.com/user-attachments/assets/3385cb4d-4331-443b-95f6-bbb4419f5116)
+
+![val_batch0_labels-2](https://github.com/user-attachments/assets/f1231cbe-dcb0-403d-aa45-06e454187dbc)
+
+![Screenshot 2024-11-26 at 10 51 48 PM](https://github.com/user-attachments/assets/1a110c83-ea42-4640-8e8a-0074fadee104)
+
+
+# Statistical Results for our YOLO and Efficientnet models:
+
+![PR_curve](https://github.com/user-attachments/assets/2cdc1c6e-bd46-408a-b4cc-513c928e26f8)  ![confusion_matrix-3](https://github.com/user-attachments/assets/8ca8c9be-b044-44f9-b72b-95fabcc5ad53)  ![Screenshot 2024-11-27 at 7 31 15 PM](https://github.com/user-attachments/assets/d77c7127-1186-48b0-a37c-0150d99c56a0)
+
+
+
+
+
+# You can view more results via this google drive link: #
+
+https://drive.google.com/drive/folders/1-_9H_upmlzb9h92ifYlNRKgLjop0iJmd?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
