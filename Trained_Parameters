@@ -1,0 +1,5 @@
+Here is our trained parameters:
+
+the best.pt is trained parameters for YOLO model, which will be need in APS360_FinalModel.
+
+the efficient_trained.pth is trained parameters used for EfficientNet, which will also be required in APS360_FinalModel
