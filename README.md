@@ -11,6 +11,10 @@ Figure 1. A manually labelled image using roboflow platform
 
 [![FridgeVision Project Presentation](https://img.youtube.com/vi/a1AFJaenw5E/0.jpg)](https://www.youtube.com/watch?v=a1AFJaenw5E)
 
+Click on this image to ACCESS youtube video link !
+
+
+# Model architecture #
 
 
 
