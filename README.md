@@ -7,6 +7,12 @@ Figure 1. A manually labelled image using roboflow platform
 
 
 
+# Our Presentation Video on Youtube #
+
+[![FridgeVision Project Presentation](https://img.youtube.com/vi/a1AFJaenw5E/0.jpg)](https://www.youtube.com/watch?v=a1AFJaenw5E)
+
+
+
 
 1) YOLO Model architecture:
 <img width="915" alt="Screenshot 2024-10-30 at 12 22 57 AM" src="https://github.com/user-attachments/assets/d547fd24-da8b-4e97-8462-e395c543c784">
